@@ -37,4 +37,12 @@ model book {
   email String @unique
   tamanho String 
   Avaliado Int
+  sssfs
+  cscscs
+  frfsdfs
+  htdgrgdr
+  fgfdgdfgfd
+  gdgfdgf
+  gthdgbd
+  
 }
