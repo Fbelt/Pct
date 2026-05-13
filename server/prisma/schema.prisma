@@ -35,4 +35,6 @@ model book {
   tipos String @enum(cl, hist, mat)
   quantos Int 
   email String @unique
+  tamanho String 
+  Avaliado Int
 }
