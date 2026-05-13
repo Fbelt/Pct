@@ -29,3 +29,8 @@ model Calcado {
   preco Int
   quantidade_em_estoque Int
 }
+
+model book {
+  id String @id @default(uuid())
+  
+}
